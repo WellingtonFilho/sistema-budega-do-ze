@@ -5,7 +5,7 @@ function entrar() {
 
     if (usuario === "admin" && senha === "1234") {
 
-        window.location.href = "pages/dashboard.html";
+        window.location.href = "pages/menu.html";
 
     } else {
 
